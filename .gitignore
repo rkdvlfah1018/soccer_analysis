@@ -1,0 +1,8 @@
+#Ignore input videos
+input_videos/
+
+#Ignore output videos
+runs/
+
+#Ignore Model
+yolov8x.pt
